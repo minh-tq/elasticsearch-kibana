@@ -1,6 +1,6 @@
 FROM openjdk:jre-alpine
 
-LABEL maintainer "minhtq <minhtq@tmh-techlab.vn>"
+LABEL maintainer "minh-tq <minh-tq@tmh-techlab.vn>"
 
 ARG ek_version=6.3.1
 
